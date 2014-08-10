@@ -1,0 +1,8 @@
+
+<IfModule mod_suphp.c>
+	suPHP_ConfigPath /home/segstsh5/php.ini
+	<Files php.ini>
+		order allow,deny
+		deny from all
+	</Files>
+</IfModule>

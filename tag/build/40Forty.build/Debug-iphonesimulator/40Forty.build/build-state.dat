@@ -1,0 +1,2338 @@
+T40Forty
+v7
+r0
+t319686949.958616
+cCheck dependencies
+cProcessInfoPlistFile /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/Info.plist 40Forty-Info.plist
+cCompileXIB /Users/kenrufe/Documents/tag/MainWindow.xib
+cCompileXIB /Users/kenrufe/Documents/tag/Classes/MainScreenView.xib
+cCompileXIB /Users/kenrufe/Documents/tag/Classes/PreferencesView.xib
+cCompileXIB /Users/kenrufe/Documents/tag/Classes/GameView.xib
+cCompileXIB /Users/kenrufe/Documents/tag/Classes/LoginScreenUserLoginView.xib
+cCpResource build/Debug-iphonesimulator/40Forty.app/iphone3_icon.png iphone3_icon.png
+cCpResource build/Debug-iphonesimulator/40Forty.app/iphone4_icon@2x.png iphone4_icon@2x.png
+cCpResource build/Debug-iphonesimulator/40Forty.app/background-1.png Classes/background-1.png
+cCpResource build/Debug-iphonesimulator/40Forty.app/background-2.png Classes/background-2.png
+cCpResource build/Debug-iphonesimulator/40Forty.app/background-3.png Classes/background-3.png
+cCpResource build/Debug-iphonesimulator/40Forty.app/background-4.png Classes/background-4.png
+cCpResource build/Debug-iphonesimulator/40Forty.app/background-5.png Classes/background-5.png
+cCpResource build/Debug-iphonesimulator/40Forty.app/background-6.png Classes/background-6.png
+cCpResource build/Debug-iphonesimulator/40Forty.app/login-view-dialog.png login-view-dialog.png
+cCpResource build/Debug-iphonesimulator/40Forty.app/user-create-dialog.png user-create-dialog.png
+cCpResource build/Debug-iphonesimulator/40Forty.app/mainscreen-dialog.png mainscreen-dialog.png
+cCpResource build/Debug-iphonesimulator/40Forty.app/stats-dialog.png stats-dialog.png
+cCpResource build/Debug-iphonesimulator/40Forty.app/about-dialog.png about-dialog.png
+cCpResource build/Debug-iphonesimulator/40Forty.app/pref-background.png pref-background.png
+cCpResource build/Debug-iphonesimulator/40Forty.app/initialize-dialog.png initialize-dialog.png
+cCpResource build/Debug-iphonesimulator/40Forty.app/info-popup.png info-popup.png
+cCpResource build/Debug-iphonesimulator/40Forty.app/info-dialog.png info-dialog.png
+cCpResource build/Debug-iphonesimulator/40Forty.app/status-background.png status-background.png
+cCpResource build/Debug-iphonesimulator/40Forty.app/map_options.png map_options.png
+cCpResource build/Debug-iphonesimulator/40Forty.app/quit_confirm.png quit_confirm.png
+cCpResource build/Debug-iphonesimulator/40Forty.app/round_over_background.png round_over_background.png
+cCpResource build/Debug-iphonesimulator/40Forty.app/userstats-background.png userstats-background.png
+cCpResource build/Debug-iphonesimulator/40Forty.app/pin-it-player.png pin-it-player.png
+cCpResource build/Debug-iphonesimulator/40Forty.app/pin-not-it-player.png pin-not-it-player.png
+cCpResource build/Debug-iphonesimulator/40Forty.app/FBDialog.bundle Classes/FBDialog.bundle
+cCpResource build/Debug-iphonesimulator/40Forty.app/cancel-button-down.png cancel-button-down.png
+cCpResource build/Debug-iphonesimulator/40Forty.app/cancel-button-up.png cancel-button-up.png
+cCpResource build/Debug-iphonesimulator/40Forty.app/create-user-button-down.png create-user-button-down.png
+cCpResource build/Debug-iphonesimulator/40Forty.app/create-user-button-up.png create-user-button-up.png
+cCpResource build/Debug-iphonesimulator/40Forty.app/create-user-cancel-button-down.png create-user-cancel-button-down.png
+cCpResource build/Debug-iphonesimulator/40Forty.app/create-user-cancel-button-up.png create-user-cancel-button-up.png
+cCpResource build/Debug-iphonesimulator/40Forty.app/done-button-down.png done-button-down.png
+cCpResource build/Debug-iphonesimulator/40Forty.app/done-button-up.png done-button-up.png
+cCpResource build/Debug-iphonesimulator/40Forty.app/gamequit-button-down.png gamequit-button-down.png
+cCpResource build/Debug-iphonesimulator/40Forty.app/gamequit-button-up.png gamequit-button-up.png
+cCpResource build/Debug-iphonesimulator/40Forty.app/help-button-down.png help-button-down.png
+cCpResource build/Debug-iphonesimulator/40Forty.app/help-button-up.png help-button-up.png
+cCpResource build/Debug-iphonesimulator/40Forty.app/join-game-button-down.png join-game-button-down.png
+cCpResource build/Debug-iphonesimulator/40Forty.app/join-game-button-up.png join-game-button-up.png
+cCpResource build/Debug-iphonesimulator/40Forty.app/login-button-down.png login-button-down.png
+cCpResource build/Debug-iphonesimulator/40Forty.app/login-button-up.png login-button-up.png
+cCpResource build/Debug-iphonesimulator/40Forty.app/login-create-button-down.png login-create-button-down.png
+cCpResource build/Debug-iphonesimulator/40Forty.app/login-create-button-up.png login-create-button-up.png
+cCpResource build/Debug-iphonesimulator/40Forty.app/logout-button-down.png logout-button-down.png
+cCpResource build/Debug-iphonesimulator/40Forty.app/logout-button-up.png logout-button-up.png
+cCpResource build/Debug-iphonesimulator/40Forty.app/ok1-button-down.png ok1-button-down.png
+cCpResource build/Debug-iphonesimulator/40Forty.app/ok1-button-up.png ok1-button-up.png
+cCpResource build/Debug-iphonesimulator/40Forty.app/opts-button-down.png opts-button-down.png
+cCpResource build/Debug-iphonesimulator/40Forty.app/opts-button-up.png opts-button-up.png
+cCpResource build/Debug-iphonesimulator/40Forty.app/preferences-button-down.png preferences-button-down.png
+cCpResource build/Debug-iphonesimulator/40Forty.app/preferences-button-up.png preferences-button-up.png
+cCpResource build/Debug-iphonesimulator/40Forty.app/quitno-button-down.png quitno-button-down.png
+cCpResource build/Debug-iphonesimulator/40Forty.app/quitno-button-up.png quitno-button-up.png
+cCpResource build/Debug-iphonesimulator/40Forty.app/quityes-button-down.png quityes-button-down.png
+cCpResource build/Debug-iphonesimulator/40Forty.app/quityes-button-up.png quityes-button-up.png
+cCpResource build/Debug-iphonesimulator/40Forty.app/stats-button-down.png stats-button-down.png
+cCpResource build/Debug-iphonesimulator/40Forty.app/stats-button-up.png stats-button-up.png
+cProcessPCH /var/folders/Dz/Dz+hY8nFFu4mZdb52puIU++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/40Forty_Prefix-dtvrnamjnomxuveizmnzgrakkcwg/40Forty_Prefix.pch.gch 40Forty_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/main.o /Users/kenrufe/Documents/tag/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/tagAppDelegate.o /Users/kenrufe/Documents/tag/Classes/tagAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/MainScreenView.o /Users/kenrufe/Documents/tag/Classes/MainScreenView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/PreferencesView.o /Users/kenrufe/Documents/tag/Classes/PreferencesView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/GameView.o /Users/kenrufe/Documents/tag/Classes/GameView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/ServerCall.o /Users/kenrufe/Documents/tag/Classes/ServerCall.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/LocationTools.o /Users/kenrufe/Documents/tag/Classes/LocationTools.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/AnnotationListObject.o /Users/kenrufe/Documents/tag/Classes/AnnotationListObject.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/LoginScreenUserLoginView.o /Users/kenrufe/Documents/tag/Classes/LoginScreenUserLoginView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/RegexKitLite.o /Users/kenrufe/Documents/tag/Classes/RegexKitLite.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/FBRequest.o /Users/kenrufe/Documents/tag/Classes/FBRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/Facebook.o /Users/kenrufe/Documents/tag/Classes/Facebook.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/FBLoginDialog.o /Users/kenrufe/Documents/tag/Classes/FBLoginDialog.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/FBDialog.o /Users/kenrufe/Documents/tag/Classes/FBDialog.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/NSObject+SBJSON.o /Users/kenrufe/Documents/tag/Classes/JSON/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/NSString+SBJSON.o /Users/kenrufe/Documents/tag/Classes/JSON/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/SBJSON.o /Users/kenrufe/Documents/tag/Classes/JSON/SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/SBJsonBase.o /Users/kenrufe/Documents/tag/Classes/JSON/SBJsonBase.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/SBJsonParser.o /Users/kenrufe/Documents/tag/Classes/JSON/SBJsonParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/SBJsonWriter.o /Users/kenrufe/Documents/tag/Classes/JSON/SBJsonWriter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/Reachability.o /Users/kenrufe/Documents/tag/Classes/Reachability.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/40Forty normal i386
+cGenerateDSYMFile /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app.dSYM /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/40Forty
+cTouch /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004CC1288A00000000000F34A0
+t1287727242
+s996512
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AddressBook.framework/AddressBook
+c000000004CC122E10000000000075FE0
+t1287725793
+s483296
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AddressBookUI.framework/AddressBookUI
+c000000004CC129090000000000151F20
+t1287727369
+s1384224
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004CC1224600000000001EA9C0
+t1287725638
+s2009536
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFArray.h
+c000000004CC1219E0000000000007AC8
+t1287725470
+s31432
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFBase.h
+c000000004CC1219E00000000000045F5
+t1287725470
+s17909
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFString.h
+c000000004CC1219F000000000000B765
+t1287725471
+s46949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004CC1219F0000000000000AB3
+t1287725471
+s2739
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004CC127E80000000000074190
+t1287727080
+s475536
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CLLocationManagerDelegate.h
+c000000004CC127DD0000000000000C73
+t1287727069
+s3187
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004CC127DD00000000000001D0
+t1287727069
+s464
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreMotion.framework/CoreMotion
+c000000004CC127EF000000000003F3E0
+t1287727087
+s259040
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/EventKit.framework/EventKit
+c000000004CC1281D00000000000C9950
+t1287727133
+s825680
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSArray.h
+c000000004CC1225F0000000000001B27
+t1287725663
+s6951
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSDictionary.h
+c000000004CC1225F0000000000000E3B
+t1287725663
+s3643
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSError.h
+c000000004CC1225F0000000000001DE5
+t1287725663
+s7653
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h
+c000000004CC1225F0000000000002033
+t1287725663
+s8243
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSNotification.h
+c000000004CC1225F000000000000059D
+t1287725663
+s1437
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObjCRuntime.h
+c000000004CC1225F0000000000002D96
+t1287725663
+s11670
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSRange.h
+c000000004CC1225F000000000000049D
+t1287725663
+s1181
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSRunLoop.h
+c000000004CC1225F0000000000000915
+t1287725663
+s2325
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h
+c000000004CC1225F0000000000006506
+t1287725663
+s25862
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004CC1294D00000000000002FE
+t1287727437
+s766
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004CC12977000000000017E7F0
+t1287727479
+s1566704
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004CC6569800000000001AAD60
+t1288066712
+s1748320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+c000000004CC6562D000000000009BEC0
+t1288066605
+s638656
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC1233C00000000000000C4
+t1287725884
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CC12431000000000015CDB0
+t1287726129
+s1428912
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers/SystemConfiguration.h
+c000000004CC121E80000000000001A58
+t1287725544
+s6744
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004CC121F60000000000068970
+t1287725558
+s428400
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/AvailabilityMacros.h
+c000000004CB3FA08000000000000673C
+t1286863368
+s26428
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/TargetConditionals.h
+c000000004CB3FA0800000000000031E9
+t1286863368
+s12777
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/arpa/inet.h
+c000000004CB3E46D0000000000001533
+t1286857837
+s5427
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/dlfcn.h
+c000000004AB98DF40000000000000B1C
+t1253674484
+s2844
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/ifaddrs.h
+c000000004CB3E4770000000000000782
+t1286857847
+s1922
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libkern/OSAtomic.h
+c000000004CB3E4860000000000002519
+t1286857862
+s9497
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/mach-o/loader.h
+c000000004A4D4DFA000000000000EF91
+t1246580218
+s61329
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/netdb.h
+c000000004A4181220000000000003057
+t1245806882
+s12375
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/netinet/in.h
+c000000004CBFACA90000000000005462
+t1287629993
+s21602
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/netinet6/in6.h
+c000000004CBFACA80000000000004F61
+t1287629992
+s20321
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/objc/objc-runtime.h
+c000000004CB935700000000000000032
+t1287206256
+s50
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/objc/runtime.h
+c000000004CB9357000000000000053F9
+t1287206256
+s21497
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/stdio.h
+c000000004CB3E48600000000000040AC
+t1286857862
+s16556
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/stdlib.h
+c000000004CB3E4860000000000002DF5
+t1286857862
+s11765
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/string.h
+c000000004CB3E4860000000000001731
+t1286857862
+s5937
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/sys/socket.h
+c000000004CBFACAC0000000000005A69
+t1287629996
+s23145
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/sys/types.h
+c000000004CBFACAC0000000000002905
+t1287629996
+s10501
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/limits.h
+c000000004A1198340000000000000C7E
+t1242667060
+s3198
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdarg.h
+c000000004A11983400000000000010DD
+t1242667060
+s4317
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdint.h
+c000000004A11A512000000000000190C
+t1242670354
+s6412
+
+N/Users/kenrufe/Documents/tag/40Forty_Prefix.pch
+c000000004C27E11900000000000000AF
+t1277681945
+s175
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/kenrufe/Documents/tag/Classes/AnnotationListObject.h
+c000000004D35079E0000000000000273
+t1295320990
+s627
+i<Foundation/Foundation.h>
+i<MapKit/MapKit.h>
+
+N/Users/kenrufe/Documents/tag/Classes/AnnotationListObject.m
+c000000004D3508080000000000000177
+t1295321096
+s375
+i"AnnotationListObject.h"
+
+N/Users/kenrufe/Documents/tag/Classes/FBConnect.h
+c000000004D43886500000000000002C2
+t1296271461
+s706
+i"Facebook.h"
+i"FBDialog.h"
+i"FBLoginDialog.h"
+i"FBRequest.h"
+i"SBJSON.h"
+
+N/Users/kenrufe/Documents/tag/Classes/FBDialog.bundle
+c000000004D4388650000000000000066
+t1296271461
+s102
+
+N/Users/kenrufe/Documents/tag/Classes/FBDialog.h
+c000000004D4388650000000000001246
+t1296271461
+s4678
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/kenrufe/Documents/tag/Classes/FBDialog.m
+c000000004D438865000000000000576F
+t1296271461
+s22383
+i"FBDialog.h"
+i"Facebook.h"
+
+N/Users/kenrufe/Documents/tag/Classes/FBLoginDialog.h
+c000000004D438865000000000000056B
+t1296271461
+s1387
+i"FBDialog.h"
+
+N/Users/kenrufe/Documents/tag/Classes/FBLoginDialog.m
+c000000004D4388650000000000000BC4
+t1296271461
+s3012
+i"FBDialog.h"
+i"FBLoginDialog.h"
+
+N/Users/kenrufe/Documents/tag/Classes/FBRequest.h
+c000000004D4388650000000000000CEA
+t1296271461
+s3306
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/kenrufe/Documents/tag/Classes/FBRequest.m
+c000000004D4388650000000000002C39
+t1296271461
+s11321
+i"FBRequest.h"
+i"JSON.h"
+
+N/Users/kenrufe/Documents/tag/Classes/Facebook.h
+c000000004D4388650000000000000C94
+t1296271461
+s3220
+i"FBLoginDialog.h"
+i"FBRequest.h"
+
+N/Users/kenrufe/Documents/tag/Classes/Facebook.m
+c000000004D4388650000000000005285
+t1296271461
+s21125
+i"Facebook.h"
+i"FBLoginDialog.h"
+i"FBRequest.h"
+
+N/Users/kenrufe/Documents/tag/Classes/GameView.h
+c000000004D4212440000000000002527
+t1296175684
+s9511
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+i"GameViewDelegate.h"
+i"MainScreenView.h"
+i"MobclixAds.h"
+i"FBConnect.h"
+
+N/Users/kenrufe/Documents/tag/Classes/GameView.m
+c000000004D5DD091000000000000F989
+t1297993873
+s63881
+i"GameView.h"
+i"SBJsonParser.h"
+i"ServerCall.h"
+i"LocationTools.h"
+i"AnnotationListObject.h"
+i"FBConnect.h"
+i"MobclixAds.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/kenrufe/Documents/tag/Classes/GameView.xib
+c000000004D5DB640000000000001D9DA
+t1297987136
+s121306
+
+N/Users/kenrufe/Documents/tag/Classes/GameViewDelegate.h
+c000000004CA92C5D00000000000000E5
+t1286155357
+s229
+i<UIKit/UIKit.h>
+
+N/Users/kenrufe/Documents/tag/Classes/JSON/JSON.h
+c000000004D43886500000000000008F9
+t1296271461
+s2297
+i"SBJSON.h"
+i"NSObject+SBJSON.h"
+i"NSString+SBJSON.h"
+
+N/Users/kenrufe/Documents/tag/Classes/JSON/NSObject+SBJSON.h
+c000000004D4388650000000000000A01
+t1296271461
+s2561
+i<Foundation/Foundation.h>
+
+N/Users/kenrufe/Documents/tag/Classes/JSON/NSObject+SBJSON.m
+c000000004D438865000000000000089E
+t1296271461
+s2206
+i"NSObject+SBJSON.h"
+i"SBJsonWriter.h"
+
+N/Users/kenrufe/Documents/tag/Classes/JSON/NSString+SBJSON.h
+c000000004D4388650000000000000916
+t1296271461
+s2326
+i<Foundation/Foundation.h>
+
+N/Users/kenrufe/Documents/tag/Classes/JSON/NSString+SBJSON.m
+c000000004D438865000000000000087D
+t1296271461
+s2173
+i"NSString+SBJSON.h"
+i"SBJsonParser.h"
+
+N/Users/kenrufe/Documents/tag/Classes/JSON/SBJSON.h
+c000000004D4388650000000000000AED
+t1296271461
+s2797
+i<Foundation/Foundation.h>
+i"SBJsonParser.h"
+i"SBJsonWriter.h"
+
+N/Users/kenrufe/Documents/tag/Classes/JSON/SBJSON.m
+c000000004D4388650000000000001ABC
+t1296271461
+s6844
+i"SBJSON.h"
+
+N/Users/kenrufe/Documents/tag/Classes/JSON/SBJsonBase.h
+c000000004D4388650000000000000B82
+t1296271461
+s2946
+i<Foundation/Foundation.h>
+
+N/Users/kenrufe/Documents/tag/Classes/JSON/SBJsonBase.m
+c000000004D4388650000000000000AC1
+t1296271461
+s2753
+i"SBJsonBase.h"
+
+N/Users/kenrufe/Documents/tag/Classes/JSON/SBJsonParser.h
+c000000004D4388650000000000000C0B
+t1296271461
+s3083
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/kenrufe/Documents/tag/Classes/JSON/SBJsonParser.m
+c000000004D43886500000000000036D0
+t1296271461
+s14032
+i"SBJsonParser.h"
+
+N/Users/kenrufe/Documents/tag/Classes/JSON/SBJsonWriter.h
+c000000004D4388650000000000001140
+t1296271461
+s4416
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/kenrufe/Documents/tag/Classes/JSON/SBJsonWriter.m
+c000000004D4388650000000000001F26
+t1296271461
+s7974
+i"SBJsonWriter.h"
+
+N/Users/kenrufe/Documents/tag/Classes/LocationTools.h
+c000000004D350FC60000000000000274
+t1295323078
+s628
+i<Foundation/Foundation.h>
+i<CoreLocation/CoreLocation.h>
+i<CoreLocation/CLLocationManagerDelegate.h>
+
+N/Users/kenrufe/Documents/tag/Classes/LocationTools.m
+c000000004D5DD01C000000000000054E
+t1297993756
+s1358
+i"LocationTools.h"
+
+N/Users/kenrufe/Documents/tag/Classes/LoginScreenUserLoginDelegate.h
+c000000004C9167EF00000000000000F7
+t1284597743
+s247
+i<UIKit/UIKit.h>
+
+N/Users/kenrufe/Documents/tag/Classes/LoginScreenUserLoginView.h
+c000000004D5DBDBF0000000000000CBA
+t1297989055
+s3258
+i<UIKit/UIKit.h>
+i"LoginScreenUserLoginDelegate.h"
+i"FBConnect.h"
+
+N/Users/kenrufe/Documents/tag/Classes/LoginScreenUserLoginView.m
+c000000004D5DC2CA0000000000004002
+t1297990346
+s16386
+i"LoginScreenUserLoginView.h"
+i"ServerCall.h"
+i"RegexKitLite.h"
+i"MainScreenView.h"
+i"SBJsonParser.h"
+i"FBConnect.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/kenrufe/Documents/tag/Classes/LoginScreenUserLoginView.xib
+c000000004D5DB32A0000000000012CE9
+t1297986346
+s77033
+
+N/Users/kenrufe/Documents/tag/Classes/MainScreenView.h
+c000000004D17AD270000000000000BE3
+t1293397287
+s3043
+i<UIKit/UIKit.h>
+i"FBConnect.h"
+
+N/Users/kenrufe/Documents/tag/Classes/MainScreenView.m
+c000000004D5DC2CA0000000000001BF3
+t1297990346
+s7155
+i"MainScreenView.h"
+i"PreferencesView.h"
+i"GameView.h"
+i"LoginScreenUserLoginView.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/kenrufe/Documents/tag/Classes/MainScreenView.xib
+c000000004D5DB4E800000000000129FF
+t1297986792
+s76287
+
+N/Users/kenrufe/Documents/tag/Classes/PreferencesView.h
+c000000004D35132B0000000000000636
+t1295323947
+s1590
+i<UIKit/UIKit.h>
+
+N/Users/kenrufe/Documents/tag/Classes/PreferencesView.m
+c000000004D35132B0000000000001FDE
+t1295323947
+s8158
+i"PreferencesView.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/kenrufe/Documents/tag/Classes/PreferencesView.xib
+c000000004D5DB3AF000000000000C4A9
+t1297986479
+s50345
+
+N/Users/kenrufe/Documents/tag/Classes/Reachability.h
+c000000004C34EF790000000000000F1B
+t1278537593
+s3867
+i<Foundation/Foundation.h>
+i<SystemConfiguration/SystemConfiguration.h>
+
+N/Users/kenrufe/Documents/tag/Classes/Reachability.m
+c000000004D45AD1D00000000000020B4
+t1296411933
+s8372
+i<sys/socket.h>
+i<netinet/in.h>
+i<netinet6/in6.h>
+i<arpa/inet.h>
+i<ifaddrs.h>
+i<netdb.h>
+i<CoreFoundation/CoreFoundation.h>
+i"Reachability.h"
+
+N/Users/kenrufe/Documents/tag/Classes/RegexKitLite.h
+c000000004BC5E8E10000000000004130
+t1271261409
+s16688
+i<Foundation/NSArray.h>
+i<Foundation/NSError.h>
+i<Foundation/NSObjCRuntime.h>
+i<Foundation/NSRange.h>
+i<Foundation/NSString.h>
+i<limits.h>
+i<stdint.h>
+i<sys/types.h>
+i<TargetConditionals.h>
+i<AvailabilityMacros.h>
+
+N/Users/kenrufe/Documents/tag/Classes/RegexKitLite.m
+c000000004BCB02C90000000000032498
+t1271595721
+s205976
+i<CoreFoundation/CFBase.h>
+i<CoreFoundation/CFArray.h>
+i<CoreFoundation/CFString.h>
+i<Foundation/NSArray.h>
+i<Foundation/NSDictionary.h>
+i<Foundation/NSError.h>
+i<Foundation/NSException.h>
+i<Foundation/NSNotification.h>
+i<Foundation/NSRunLoop.h>
+i<Foundation/NSGarbageCollector.h>
+i<objc/runtime.h>
+i<objc/objc-runtime.h>
+i<libkern/OSAtomic.h>
+i<mach-o/loader.h>
+i<AvailabilityMacros.h>
+i<dlfcn.h>
+i<string.h>
+i<stdarg.h>
+i<stdlib.h>
+i<stdio.h>
+i"RegexKitLite.h"
+
+N/Users/kenrufe/Documents/tag/Classes/ServerCall.h
+c000000004D35132B0000000000000552
+t1295323947
+s1362
+i<Foundation/Foundation.h>
+i"LocationTools.h"
+i"LoginScreenUserLoginDelegate.h"
+i"GameViewDelegate.h"
+
+N/Users/kenrufe/Documents/tag/Classes/ServerCall.m
+c000000004D439CB50000000000002214
+t1296276661
+s8724
+i"ServerCall.h"
+
+N/Users/kenrufe/Documents/tag/Classes/background-1.png
+c000000004D0823740000000000020FC3
+t1292378996
+s135107
+
+N/Users/kenrufe/Documents/tag/Classes/background-2.png
+c000000004D08238400000000000194C5
+t1292379012
+s103621
+
+N/Users/kenrufe/Documents/tag/Classes/background-3.png
+c000000004D082390000000000001C155
+t1292379024
+s115029
+
+N/Users/kenrufe/Documents/tag/Classes/background-4.png
+c000000004D08239C0000000000014C30
+t1292379036
+s85040
+
+N/Users/kenrufe/Documents/tag/Classes/background-5.png
+c000000004D0823AC000000000001E3CB
+t1292379052
+s123851
+
+N/Users/kenrufe/Documents/tag/Classes/background-6.png
+c000000004D0823C20000000000020A2F
+t1292379074
+s133679
+
+N/Users/kenrufe/Documents/tag/Classes/mobclix.lib/Mobclix.h
+c000000004CF988F80000000000000682
+t1291421944
+s1666
+
+N/Users/kenrufe/Documents/tag/Classes/mobclix.lib/MobclixAds.h
+c000000004CF988F80000000000001543
+t1291421944
+s5443
+
+N/Users/kenrufe/Documents/tag/Classes/mobclix.lib/libMobclix.a
+c000000004CF9893900000000007BC42C
+t1291422009
+s8111148
+
+N/Users/kenrufe/Documents/tag/Classes/tagAppDelegate.h
+c000000004D45F398000000000000028A
+t1296429976
+s650
+i<UIKit/UIKit.h>
+
+N/Users/kenrufe/Documents/tag/Classes/tagAppDelegate.m
+c000000004D45F3980000000000000E32
+t1296429976
+s3634
+i"tagAppDelegate.h"
+i"LoginScreenUserLoginView.h"
+i"FBConnect.h"
+i"Mobclix.h"
+i"Reachability.h"
+
+N/Users/kenrufe/Documents/tag/MainWindow.xib
+c000000004C27E11900000000000020F4
+t1277681945
+s8436
+
+N/Users/kenrufe/Documents/tag/about-dialog.png
+c000000004D17A5A2000000000002E976
+t1293395362
+s190838
+
+N/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/40Forty.LinkFileList
+c000000004D5DCB6400000000000009DA
+t1297992548
+s2522
+
+N/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/AnnotationListObject.o
+t1297992567
+s16124
+
+N/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/FBDialog.o
+t1297992568
+s109688
+
+N/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/FBLoginDialog.o
+t1297992568
+s43840
+
+N/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/FBRequest.o
+t1297992568
+s43512
+
+N/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/Facebook.o
+t1297992568
+s75472
+
+N/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/GameView.o
+t1297993874
+s277000
+
+N/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/LocationTools.o
+t1297993874
+s53080
+
+N/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/LoginScreenUserLoginView.o
+t1297992567
+s117904
+
+N/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/MainScreenView.o
+t1297992566
+s94480
+
+N/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/NSObject+SBJSON.o
+t1297992569
+s8280
+
+N/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/NSString+SBJSON.o
+t1297992569
+s8200
+
+N/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/PreferencesView.o
+t1297992566
+s71432
+
+N/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/Reachability.o
+t1297992569
+s22272
+
+N/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/RegexKitLite.o
+t1297992568
+s190052
+
+N/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/SBJSON.o
+t1297992569
+s20068
+
+N/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/SBJsonBase.o
+t1297992569
+s13200
+
+N/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/SBJsonParser.o
+t1297992569
+s35860
+
+N/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/SBJsonWriter.o
+t1297992569
+s25536
+
+N/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/ServerCall.o
+t1297992567
+s34092
+
+N/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/main.o
+t1297992565
+s6284
+
+N/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/tagAppDelegate.o
+t1297992565
+s63696
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app
+t1297993875
+s2278
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app.dSYM
+t1297993875
+s102
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/40Forty
+t1297993875
+s1131372
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/FBDialog.bundle
+t1297992560
+s102
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/GameView.nib
+t1297992558
+s11209
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/Info.plist
+t1297992549
+s881
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/LoginScreenUserLoginView.nib
+t1297992558
+s6603
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/MainScreenView.nib
+t1297992555
+s7324
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/MainWindow.nib
+t1297992553
+s980
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/PkgInfo
+t1297992549
+s8
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/PreferencesView.nib
+t1297992557
+s4567
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/about-dialog.png
+t1297992559
+s190838
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/background-1.png
+t1297992558
+s135107
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/background-2.png
+t1297992558
+s103621
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/background-3.png
+t1297992558
+s115029
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/background-4.png
+t1297992558
+s85040
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/background-5.png
+t1297992558
+s123851
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/background-6.png
+t1297992559
+s133679
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/button-down.png
+t2
+s0
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/button-up.png
+t2
+s0
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/cancel-button-down.png
+t1297992560
+s2051
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/cancel-button-up.png
+t1297992560
+s2028
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/create-user-button-down.png
+t1297992560
+s2598
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/create-user-button-up.png
+t1297992560
+s2509
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/create-user-cancel-button-down.png
+t1297992560
+s2598
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/create-user-cancel-button-up.png
+t1297992560
+s2509
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/done-button-down.png
+t1297992560
+s2406
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/done-button-up.png
+t1297992560
+s2363
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/gamequit-button-down.png
+t1297992560
+s2041
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/gamequit-button-up.png
+t1297992560
+s2018
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/help-button-down.png
+t1297992560
+s2546
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/help-button-up.png
+t1297992560
+s2471
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/info-dialog.png
+t1297992559
+s64979
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/info-popup.png
+t1297992559
+s38586
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/initialize-dialog.png
+t1297992559
+s132701
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/iphone3_icon.png
+t1297992558
+s6976
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/iphone4_icon@2x.png
+t1297992558
+s11592
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/join-game-button-down.png
+t1297992560
+s2546
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/join-game-button-up.png
+t1297992560
+s2474
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/login-button-down.png
+t1297992560
+s2673
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/login-button-up.png
+t1297992560
+s2621
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/login-create-button-down.png
+t1297992560
+s2670
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/login-create-button-up.png
+t1297992560
+s2621
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/login-view-dialog.png
+t1297992559
+s126520
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/logout-button-down.png
+t1297992560
+s2541
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/logout-button-up.png
+t1297992561
+s2474
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/mainscreen-dialog.png
+t1297992559
+s135867
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/map_options.png
+t1297992559
+s127309
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/ok1-button-down.png
+t1297992561
+s2341
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/ok1-button-up.png
+t1297992561
+s2311
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/opts-button-down.png
+t1297992561
+s2041
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/opts-button-up.png
+t1297992561
+s2030
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/pin-it-player.png
+t1297992560
+s2221
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/pin-not-it-player.png
+t1297992560
+s1721
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/pref-background.png
+t1297992559
+s101883
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/preferences-button-down.png
+t1297992561
+s2538
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/preferences-button-up.png
+t1297992561
+s2474
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/quit_confirm.png
+t1297992560
+s34404
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/quitno-button-down.png
+t1297992561
+s2177
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/quitno-button-up.png
+t1297992561
+s2164
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/quityes-button-down.png
+t1297992561
+s2177
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/quityes-button-up.png
+t1297992561
+s2164
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/round_over_background.png
+t1297992560
+s52242
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/stats-button-down.png
+t1297992561
+s2546
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/stats-button-up.png
+t1297992561
+s2473
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/stats-dialog.png
+t1297992559
+s178167
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/status-background.png
+t1297992559
+s21067
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/user-create-dialog.png
+t1297992559
+s140027
+
+N/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/userstats-background.png
+t1297992560
+s86943
+
+N/Users/kenrufe/Documents/tag/button-down.png
+c000000004D5DADA40000000000000793
+t1297984932
+s1939
+
+N/Users/kenrufe/Documents/tag/button-up.png
+c000000004D5DADAC0000000000000775
+t1297984940
+s1909
+
+N/Users/kenrufe/Documents/tag/cancel-button-down.png
+c000000004D5DB1860000000000000803
+t1297985926
+s2051
+
+N/Users/kenrufe/Documents/tag/cancel-button-up.png
+c000000004D5DB17600000000000007EC
+t1297985910
+s2028
+
+N/Users/kenrufe/Documents/tag/create-user-button-down.png
+c000000004D5DB18C0000000000000A26
+t1297985932
+s2598
+
+N/Users/kenrufe/Documents/tag/create-user-button-up.png
+c000000004D5DB13800000000000009CD
+t1297985848
+s2509
+
+N/Users/kenrufe/Documents/tag/create-user-cancel-button-down.png
+c000000004D5DB1940000000000000A26
+t1297985940
+s2598
+
+N/Users/kenrufe/Documents/tag/create-user-cancel-button-up.png
+c000000004D5DB0EE00000000000009CD
+t1297985774
+s2509
+
+N/Users/kenrufe/Documents/tag/done-button-down.png
+c000000004D5DB1460000000000000966
+t1297985862
+s2406
+
+N/Users/kenrufe/Documents/tag/done-button-up.png
+c000000004D5DB120000000000000093B
+t1297985824
+s2363
+
+N/Users/kenrufe/Documents/tag/gamequit-button-down.png
+c000000004D5DB13000000000000007F9
+t1297985840
+s2041
+
+N/Users/kenrufe/Documents/tag/gamequit-button-up.png
+c000000004D5DB0E600000000000007E2
+t1297985766
+s2018
+
+N/Users/kenrufe/Documents/tag/help-button-down.png
+c000000004D5DB0DA00000000000009F2
+t1297985754
+s2546
+
+N/Users/kenrufe/Documents/tag/help-button-up.png
+c000000004D5DB0D200000000000009A7
+t1297985746
+s2471
+
+N/Users/kenrufe/Documents/tag/info-dialog.png
+c000000004D17B60A000000000000FDD3
+t1293399562
+s64979
+
+N/Users/kenrufe/Documents/tag/info-popup.png
+c000000004D17B39C00000000000096BA
+t1293398940
+s38586
+
+N/Users/kenrufe/Documents/tag/initialize-dialog.png
+c000000004D17B0B2000000000002065D
+t1293398194
+s132701
+
+N/Users/kenrufe/Documents/tag/iphone3_icon.png
+c000000004CFA6A380000000000001B40
+t1291479608
+s6976
+
+N/Users/kenrufe/Documents/tag/iphone4_icon@2x.png
+c000000004CFA6BF80000000000002D48
+t1291480056
+s11592
+
+N/Users/kenrufe/Documents/tag/join-game-button-down.png
+c000000004D5DB0C800000000000009F2
+t1297985736
+s2546
+
+N/Users/kenrufe/Documents/tag/join-game-button-up.png
+c000000004D5DB0C000000000000009AA
+t1297985728
+s2474
+
+N/Users/kenrufe/Documents/tag/login-button-down.png
+c000000004D5DB0AE0000000000000A71
+t1297985710
+s2673
+
+N/Users/kenrufe/Documents/tag/login-button-up.png
+c000000004D5DB09A0000000000000A3D
+t1297985690
+s2621
+
+N/Users/kenrufe/Documents/tag/login-create-button-down.png
+c000000004D5DB1AC0000000000000A6E
+t1297985964
+s2670
+
+N/Users/kenrufe/Documents/tag/login-create-button-up.png
+c000000004D5DB0FA0000000000000A3D
+t1297985786
+s2621
+
+N/Users/kenrufe/Documents/tag/login-view-dialog.png
+c000000004D082C76000000000001EE38
+t1292381302
+s126520
+
+N/Users/kenrufe/Documents/tag/logout-button-down.png
+c000000004D5DB15400000000000009ED
+t1297985876
+s2541
+
+N/Users/kenrufe/Documents/tag/logout-button-up.png
+c000000004D5DB13E00000000000009AA
+t1297985854
+s2474
+
+N/Users/kenrufe/Documents/tag/main.m
+c000000004C4C6C3B0000000000000161
+t1280076859
+s353
+i<UIKit/UIKit.h>
+
+N/Users/kenrufe/Documents/tag/mainscreen-dialog.png
+c000000004D179F1200000000000212BB
+t1293393682
+s135867
+
+N/Users/kenrufe/Documents/tag/map_options.png
+c000000004D1F9914000000000001F14D
+t1293916436
+s127309
+
+N/Users/kenrufe/Documents/tag/ok1-button-down.png
+c000000004D5DB1A40000000000000925
+t1297985956
+s2341
+
+N/Users/kenrufe/Documents/tag/ok1-button-up.png
+c000000004D5DB1B20000000000000907
+t1297985970
+s2311
+
+N/Users/kenrufe/Documents/tag/opts-button-down.png
+c000000004D5DB14C00000000000007F9
+t1297985868
+s2041
+
+N/Users/kenrufe/Documents/tag/opts-button-up.png
+c000000004D5DB12800000000000007EE
+t1297985832
+s2030
+
+N/Users/kenrufe/Documents/tag/pin-it-player.png
+c000000004D20CBA200000000000008AD
+t1293994914
+s2221
+
+N/Users/kenrufe/Documents/tag/pin-not-it-player.png
+c000000004D20CC7E00000000000006B9
+t1293995134
+s1721
+
+N/Users/kenrufe/Documents/tag/pref-background.png
+c000000004D17A8A60000000000018DFB
+t1293396134
+s101883
+
+N/Users/kenrufe/Documents/tag/preferences-button-down.png
+c000000004D5DB10A00000000000009EA
+t1297985802
+s2538
+
+N/Users/kenrufe/Documents/tag/preferences-button-up.png
+c000000004D5DB1C000000000000009AA
+t1297985984
+s2474
+
+N/Users/kenrufe/Documents/tag/quit_confirm.png
+c000000004D1F9D1C0000000000008664
+t1293917468
+s34404
+
+N/Users/kenrufe/Documents/tag/quitno-button-down.png
+c000000004D5DB1160000000000000881
+t1297985814
+s2177
+
+N/Users/kenrufe/Documents/tag/quitno-button-up.png
+c000000004D5DB17E0000000000000874
+t1297985918
+s2164
+
+N/Users/kenrufe/Documents/tag/quityes-button-down.png
+c000000004D5DB19C0000000000000881
+t1297985948
+s2177
+
+N/Users/kenrufe/Documents/tag/quityes-button-up.png
+c000000004D5DB1BA0000000000000874
+t1297985978
+s2164
+
+N/Users/kenrufe/Documents/tag/round_over_background.png
+c000000004D1FA156000000000000CC12
+t1293918550
+s52242
+
+N/Users/kenrufe/Documents/tag/stats-button-down.png
+c000000004D5DB17000000000000009F2
+t1297985904
+s2546
+
+N/Users/kenrufe/Documents/tag/stats-button-up.png
+c000000004D5DB10200000000000009A9
+t1297985794
+s2473
+
+N/Users/kenrufe/Documents/tag/stats-dialog.png
+c000000004D17A1C2000000000002B7F7
+t1293394370
+s178167
+
+N/Users/kenrufe/Documents/tag/status-background.png
+c000000004D194B6E000000000000524B
+t1293503342
+s21067
+
+N/Users/kenrufe/Documents/tag/user-create-dialog.png
+c000000004D100B9600000000000222FB
+t1292897174
+s140027
+
+N/Users/kenrufe/Documents/tag/userstats-background.png
+c000000004D1FB2E0000000000001539F
+t1293923040
+s86943
+
+N/var/folders/Dz/Dz+hY8nFFu4mZdb52puIU++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/40Forty_Prefix-dtvrnamjnomxuveizmnzgrakkcwg/40Forty_Prefix.pch.gch
+t1297992564
+s15453392
+
+N40Forty-Info.plist
+c000000004D5DA9860000000000000575
+t1297983878
+s1397
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies319686949#319686949#0(0"0(0#1#0"8632427744#0"0#
+
+CCompileC build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/AnnotationListObject.o /Users/kenrufe/Documents/tag/Classes/AnnotationListObject.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319685367.219635
+e319685367.332299
+r1
+xCompileC
+xbuild/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/AnnotationListObject.o
+x/Users/kenrufe/Documents/tag/Classes/AnnotationListObject.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/kenrufe/Documents/tag/Classes/AnnotationListObject.m319685367#319685367#0(0"0(0#0#59"/Users/kenrufe/Documents/tag/Classes/AnnotationListObject.m8642252576#1844"    cd /Users/kenrufe/Documents/tag    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-generated-files.hmap -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-own-target-headers.hmap -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-all-target-headers.hmap -iquote /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-project-headers.hmap -F/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator -I/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/include -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/DerivedSources/i386 -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/DerivedSources -include /var/folders/Dz/Dz+hY8nFFu4mZdb52puIU++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/40Forty_Prefix-dtvrnamjnomxuveizmnzgrakkcwg/40Forty_Prefix.pch -c /Users/kenrufe/Documents/tag/Classes/AnnotationListObject.m -o /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/AnnotationListObject.o0#
+
+CCompileC build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/FBDialog.o /Users/kenrufe/Documents/tag/Classes/FBDialog.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319685368.676481
+e319685368.933124
+r1
+xCompileC
+xbuild/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/FBDialog.o
+x/Users/kenrufe/Documents/tag/Classes/FBDialog.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/kenrufe/Documents/tag/Classes/FBDialog.m319685368#319685368#0(0"0(0#0#47"/Users/kenrufe/Documents/tag/Classes/FBDialog.m8635462688#1820"    cd /Users/kenrufe/Documents/tag    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-generated-files.hmap -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-own-target-headers.hmap -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-all-target-headers.hmap -iquote /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-project-headers.hmap -F/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator -I/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/include -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/DerivedSources/i386 -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/DerivedSources -include /var/folders/Dz/Dz+hY8nFFu4mZdb52puIU++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/40Forty_Prefix-dtvrnamjnomxuveizmnzgrakkcwg/40Forty_Prefix.pch -c /Users/kenrufe/Documents/tag/Classes/FBDialog.m -o /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/FBDialog.o0#
+
+CCompileC build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/FBLoginDialog.o /Users/kenrufe/Documents/tag/Classes/FBLoginDialog.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319685368.569157
+e319685368.676352
+r1
+xCompileC
+xbuild/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/FBLoginDialog.o
+x/Users/kenrufe/Documents/tag/Classes/FBLoginDialog.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/kenrufe/Documents/tag/Classes/FBLoginDialog.m319685368#319685368#0(0"0(0#0#52"/Users/kenrufe/Documents/tag/Classes/FBLoginDialog.m8643397248#1830"    cd /Users/kenrufe/Documents/tag    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-generated-files.hmap -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-own-target-headers.hmap -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-all-target-headers.hmap -iquote /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-project-headers.hmap -F/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator -I/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/include -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/DerivedSources/i386 -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/DerivedSources -include /var/folders/Dz/Dz+hY8nFFu4mZdb52puIU++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/40Forty_Prefix-dtvrnamjnomxuveizmnzgrakkcwg/40Forty_Prefix.pch -c /Users/kenrufe/Documents/tag/Classes/FBLoginDialog.m -o /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/FBLoginDialog.o0#
+
+CCompileC build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/FBRequest.o /Users/kenrufe/Documents/tag/Classes/FBRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319685368.227442
+e319685368.401202
+r1
+xCompileC
+xbuild/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/FBRequest.o
+x/Users/kenrufe/Documents/tag/Classes/FBRequest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/kenrufe/Documents/tag/Classes/FBRequest.m319685368#319685368#0(0"0(0#0#48"/Users/kenrufe/Documents/tag/Classes/FBRequest.m8643361344#1822"    cd /Users/kenrufe/Documents/tag    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-generated-files.hmap -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-own-target-headers.hmap -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-all-target-headers.hmap -iquote /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-project-headers.hmap -F/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator -I/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/include -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/DerivedSources/i386 -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/DerivedSources -include /var/folders/Dz/Dz+hY8nFFu4mZdb52puIU++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/40Forty_Prefix-dtvrnamjnomxuveizmnzgrakkcwg/40Forty_Prefix.pch -c /Users/kenrufe/Documents/tag/Classes/FBRequest.m -o /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/FBRequest.o0#
+
+CCompileC build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/Facebook.o /Users/kenrufe/Documents/tag/Classes/Facebook.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319685368.401336
+e319685368.568891
+r1
+xCompileC
+xbuild/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/Facebook.o
+x/Users/kenrufe/Documents/tag/Classes/Facebook.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/kenrufe/Documents/tag/Classes/Facebook.m319685368#319685368#0(0"0(0#0#47"/Users/kenrufe/Documents/tag/Classes/Facebook.m8644195936#1820"    cd /Users/kenrufe/Documents/tag    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-generated-files.hmap -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-own-target-headers.hmap -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-all-target-headers.hmap -iquote /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-project-headers.hmap -F/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator -I/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/include -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/DerivedSources/i386 -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/DerivedSources -include /var/folders/Dz/Dz+hY8nFFu4mZdb52puIU++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/40Forty_Prefix-dtvrnamjnomxuveizmnzgrakkcwg/40Forty_Prefix.pch -c /Users/kenrufe/Documents/tag/Classes/Facebook.m -o /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/Facebook.o0#
+
+CCompileC build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/GameView.o /Users/kenrufe/Documents/tag/Classes/GameView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319686673.811522
+e319686674.704566
+r1
+xCompileC
+xbuild/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/GameView.o
+x/Users/kenrufe/Documents/tag/Classes/GameView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/kenrufe/Documents/tag/Classes/GameView.m319686673#319686674#0(0"0(0#0#47"/Users/kenrufe/Documents/tag/Classes/GameView.m8633637472#1820"    cd /Users/kenrufe/Documents/tag    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-generated-files.hmap -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-own-target-headers.hmap -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-all-target-headers.hmap -iquote /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-project-headers.hmap -F/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator -I/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/include -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/DerivedSources/i386 -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/DerivedSources -include /var/folders/Dz/Dz+hY8nFFu4mZdb52puIU++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/40Forty_Prefix-dtvrnamjnomxuveizmnzgrakkcwg/40Forty_Prefix.pch -c /Users/kenrufe/Documents/tag/Classes/GameView.m -o /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/GameView.o0#
+
+CCompileC build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/LocationTools.o /Users/kenrufe/Documents/tag/Classes/LocationTools.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319686674.704691
+e319686674.907810
+r1
+xCompileC
+xbuild/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/LocationTools.o
+x/Users/kenrufe/Documents/tag/Classes/LocationTools.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/kenrufe/Documents/tag/Classes/LocationTools.m319686674#319686674#0(0"0(0#0#52"/Users/kenrufe/Documents/tag/Classes/LocationTools.m8631875584#1830"    cd /Users/kenrufe/Documents/tag    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-generated-files.hmap -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-own-target-headers.hmap -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-all-target-headers.hmap -iquote /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-project-headers.hmap -F/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator -I/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/include -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/DerivedSources/i386 -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/DerivedSources -include /var/folders/Dz/Dz+hY8nFFu4mZdb52puIU++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/40Forty_Prefix-dtvrnamjnomxuveizmnzgrakkcwg/40Forty_Prefix.pch -c /Users/kenrufe/Documents/tag/Classes/LocationTools.m -o /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/LocationTools.o0#
+
+CCompileC build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/LoginScreenUserLoginView.o /Users/kenrufe/Documents/tag/Classes/LoginScreenUserLoginView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319685367.332434
+e319685367.613660
+r1
+xCompileC
+xbuild/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/LoginScreenUserLoginView.o
+x/Users/kenrufe/Documents/tag/Classes/LoginScreenUserLoginView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/kenrufe/Documents/tag/Classes/LoginScreenUserLoginView.m319685367#319685367#0(0"0(0#0#63"/Users/kenrufe/Documents/tag/Classes/LoginScreenUserLoginView.m8633577184#1852"    cd /Users/kenrufe/Documents/tag    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-generated-files.hmap -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-own-target-headers.hmap -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-all-target-headers.hmap -iquote /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-project-headers.hmap -F/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator -I/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/include -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/DerivedSources/i386 -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/DerivedSources -include /var/folders/Dz/Dz+hY8nFFu4mZdb52puIU++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/40Forty_Prefix-dtvrnamjnomxuveizmnzgrakkcwg/40Forty_Prefix.pch -c /Users/kenrufe/Documents/tag/Classes/LoginScreenUserLoginView.m -o /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/LoginScreenUserLoginView.o0#
+
+CCompileC build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/MainScreenView.o /Users/kenrufe/Documents/tag/Classes/MainScreenView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319685365.759877
+e319685366.050708
+r1
+xCompileC
+xbuild/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/MainScreenView.o
+x/Users/kenrufe/Documents/tag/Classes/MainScreenView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/kenrufe/Documents/tag/Classes/MainScreenView.m319685365#319685366#0(0"0(0#0#53"/Users/kenrufe/Documents/tag/Classes/MainScreenView.m8643839520#1832"    cd /Users/kenrufe/Documents/tag    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-generated-files.hmap -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-own-target-headers.hmap -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-all-target-headers.hmap -iquote /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-project-headers.hmap -F/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator -I/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/include -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/DerivedSources/i386 -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/DerivedSources -include /var/folders/Dz/Dz+hY8nFFu4mZdb52puIU++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/40Forty_Prefix-dtvrnamjnomxuveizmnzgrakkcwg/40Forty_Prefix.pch -c /Users/kenrufe/Documents/tag/Classes/MainScreenView.m -o /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/MainScreenView.o0#
+
+CCompileC build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/NSObject+SBJSON.o /Users/kenrufe/Documents/tag/Classes/JSON/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319685368.933262
+e319685369.016317
+r1
+xCompileC
+xbuild/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/NSObject+SBJSON.o
+x/Users/kenrufe/Documents/tag/Classes/JSON/NSObject+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/kenrufe/Documents/tag/Classes/JSON/NSObject+SBJSON.m319685368#319685369#0(0"0(0#0#59"/Users/kenrufe/Documents/tag/Classes/JSON/NSObject+SBJSON.m8644199072#1839"    cd /Users/kenrufe/Documents/tag    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-generated-files.hmap -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-own-target-headers.hmap -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-all-target-headers.hmap -iquote /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-project-headers.hmap -F/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator -I/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/include -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/DerivedSources/i386 -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/DerivedSources -include /var/folders/Dz/Dz+hY8nFFu4mZdb52puIU++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/40Forty_Prefix-dtvrnamjnomxuveizmnzgrakkcwg/40Forty_Prefix.pch -c /Users/kenrufe/Documents/tag/Classes/JSON/NSObject+SBJSON.m -o /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/NSObject+SBJSON.o0#
+
+CCompileC build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/NSString+SBJSON.o /Users/kenrufe/Documents/tag/Classes/JSON/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319685369.016452
+e319685369.103226
+r1
+xCompileC
+xbuild/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/NSString+SBJSON.o
+x/Users/kenrufe/Documents/tag/Classes/JSON/NSString+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/kenrufe/Documents/tag/Classes/JSON/NSString+SBJSON.m319685369#319685369#0(0"0(0#0#59"/Users/kenrufe/Documents/tag/Classes/JSON/NSString+SBJSON.m8643671712#1839"    cd /Users/kenrufe/Documents/tag    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-generated-files.hmap -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-own-target-headers.hmap -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-all-target-headers.hmap -iquote /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-project-headers.hmap -F/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator -I/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/include -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/DerivedSources/i386 -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/DerivedSources -include /var/folders/Dz/Dz+hY8nFFu4mZdb52puIU++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/40Forty_Prefix-dtvrnamjnomxuveizmnzgrakkcwg/40Forty_Prefix.pch -c /Users/kenrufe/Documents/tag/Classes/JSON/NSString+SBJSON.m -o /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/NSString+SBJSON.o0#
+
+CCompileC build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/PreferencesView.o /Users/kenrufe/Documents/tag/Classes/PreferencesView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319685366.050838
+e319685366.225082
+r1
+xCompileC
+xbuild/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/PreferencesView.o
+x/Users/kenrufe/Documents/tag/Classes/PreferencesView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/kenrufe/Documents/tag/Classes/PreferencesView.m319685366#319685366#0(0"0(0#0#54"/Users/kenrufe/Documents/tag/Classes/PreferencesView.m8644868160#1834"    cd /Users/kenrufe/Documents/tag    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-generated-files.hmap -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-own-target-headers.hmap -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-all-target-headers.hmap -iquote /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-project-headers.hmap -F/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator -I/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/include -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/DerivedSources/i386 -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/DerivedSources -include /var/folders/Dz/Dz+hY8nFFu4mZdb52puIU++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/40Forty_Prefix-dtvrnamjnomxuveizmnzgrakkcwg/40Forty_Prefix.pch -c /Users/kenrufe/Documents/tag/Classes/PreferencesView.m -o /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/PreferencesView.o0#
+
+CCompileC build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/Reachability.o /Users/kenrufe/Documents/tag/Classes/Reachability.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319685369.602103
+e319685369.759768
+r1
+xCompileC
+xbuild/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/Reachability.o
+x/Users/kenrufe/Documents/tag/Classes/Reachability.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/kenrufe/Documents/tag/Classes/Reachability.m319685369#319685369#0(0"0(0#0#51"/Users/kenrufe/Documents/tag/Classes/Reachability.m8635762976#1828"    cd /Users/kenrufe/Documents/tag    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-generated-files.hmap -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-own-target-headers.hmap -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-all-target-headers.hmap -iquote /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-project-headers.hmap -F/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator -I/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/include -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/DerivedSources/i386 -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/DerivedSources -include /var/folders/Dz/Dz+hY8nFFu4mZdb52puIU++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/40Forty_Prefix-dtvrnamjnomxuveizmnzgrakkcwg/40Forty_Prefix.pch -c /Users/kenrufe/Documents/tag/Classes/Reachability.m -o /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/Reachability.o0#
+
+CCompileC build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/RegexKitLite.o /Users/kenrufe/Documents/tag/Classes/RegexKitLite.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319685367.613792
+e319685368.227302
+r1
+xCompileC
+xbuild/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/RegexKitLite.o
+x/Users/kenrufe/Documents/tag/Classes/RegexKitLite.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/kenrufe/Documents/tag/Classes/RegexKitLite.m319685367#319685368#0(0"0(0#0#51"/Users/kenrufe/Documents/tag/Classes/RegexKitLite.m8643964448#1828"    cd /Users/kenrufe/Documents/tag    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-generated-files.hmap -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-own-target-headers.hmap -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-all-target-headers.hmap -iquote /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-project-headers.hmap -F/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator -I/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/include -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/DerivedSources/i386 -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/DerivedSources -include /var/folders/Dz/Dz+hY8nFFu4mZdb52puIU++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/40Forty_Prefix-dtvrnamjnomxuveizmnzgrakkcwg/40Forty_Prefix.pch -c /Users/kenrufe/Documents/tag/Classes/RegexKitLite.m -o /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/RegexKitLite.o0#
+
+CCompileC build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/SBJSON.o /Users/kenrufe/Documents/tag/Classes/JSON/SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319685369.103359
+e319685369.213607
+r1
+xCompileC
+xbuild/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/SBJSON.o
+x/Users/kenrufe/Documents/tag/Classes/JSON/SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/kenrufe/Documents/tag/Classes/JSON/SBJSON.m319685369#319685369#0(0"0(0#0#50"/Users/kenrufe/Documents/tag/Classes/JSON/SBJSON.m8635717600#1821"    cd /Users/kenrufe/Documents/tag    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-generated-files.hmap -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-own-target-headers.hmap -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-all-target-headers.hmap -iquote /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-project-headers.hmap -F/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator -I/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/include -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/DerivedSources/i386 -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/DerivedSources -include /var/folders/Dz/Dz+hY8nFFu4mZdb52puIU++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/40Forty_Prefix-dtvrnamjnomxuveizmnzgrakkcwg/40Forty_Prefix.pch -c /Users/kenrufe/Documents/tag/Classes/JSON/SBJSON.m -o /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/SBJSON.o0#
+
+CCompileC build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/SBJsonBase.o /Users/kenrufe/Documents/tag/Classes/JSON/SBJsonBase.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319685369.213738
+e319685369.313950
+r1
+xCompileC
+xbuild/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/SBJsonBase.o
+x/Users/kenrufe/Documents/tag/Classes/JSON/SBJsonBase.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/kenrufe/Documents/tag/Classes/JSON/SBJsonBase.m319685369#319685369#0(0"0(0#0#54"/Users/kenrufe/Documents/tag/Classes/JSON/SBJsonBase.m8633562784#1829"    cd /Users/kenrufe/Documents/tag    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-generated-files.hmap -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-own-target-headers.hmap -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-all-target-headers.hmap -iquote /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-project-headers.hmap -F/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator -I/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/include -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/DerivedSources/i386 -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/DerivedSources -include /var/folders/Dz/Dz+hY8nFFu4mZdb52puIU++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/40Forty_Prefix-dtvrnamjnomxuveizmnzgrakkcwg/40Forty_Prefix.pch -c /Users/kenrufe/Documents/tag/Classes/JSON/SBJsonBase.m -o /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/SBJsonBase.o0#
+
+CCompileC build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/SBJsonParser.o /Users/kenrufe/Documents/tag/Classes/JSON/SBJsonParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319685369.314088
+e319685369.474324
+r1
+xCompileC
+xbuild/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/SBJsonParser.o
+x/Users/kenrufe/Documents/tag/Classes/JSON/SBJsonParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/kenrufe/Documents/tag/Classes/JSON/SBJsonParser.m319685369#319685369#0(0"0(0#0#56"/Users/kenrufe/Documents/tag/Classes/JSON/SBJsonParser.m8643915392#1833"    cd /Users/kenrufe/Documents/tag    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-generated-files.hmap -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-own-target-headers.hmap -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-all-target-headers.hmap -iquote /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-project-headers.hmap -F/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator -I/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/include -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/DerivedSources/i386 -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/DerivedSources -include /var/folders/Dz/Dz+hY8nFFu4mZdb52puIU++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/40Forty_Prefix-dtvrnamjnomxuveizmnzgrakkcwg/40Forty_Prefix.pch -c /Users/kenrufe/Documents/tag/Classes/JSON/SBJsonParser.m -o /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/SBJsonParser.o0#
+
+CCompileC build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/SBJsonWriter.o /Users/kenrufe/Documents/tag/Classes/JSON/SBJsonWriter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319685369.474455
+e319685369.601979
+r1
+xCompileC
+xbuild/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/SBJsonWriter.o
+x/Users/kenrufe/Documents/tag/Classes/JSON/SBJsonWriter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/kenrufe/Documents/tag/Classes/JSON/SBJsonWriter.m319685369#319685369#0(0"0(0#0#56"/Users/kenrufe/Documents/tag/Classes/JSON/SBJsonWriter.m8643044000#1833"    cd /Users/kenrufe/Documents/tag    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-generated-files.hmap -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-own-target-headers.hmap -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-all-target-headers.hmap -iquote /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-project-headers.hmap -F/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator -I/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/include -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/DerivedSources/i386 -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/DerivedSources -include /var/folders/Dz/Dz+hY8nFFu4mZdb52puIU++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/40Forty_Prefix-dtvrnamjnomxuveizmnzgrakkcwg/40Forty_Prefix.pch -c /Users/kenrufe/Documents/tag/Classes/JSON/SBJsonWriter.m -o /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/SBJsonWriter.o0#
+
+CCompileC build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/ServerCall.o /Users/kenrufe/Documents/tag/Classes/ServerCall.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319685366.959070
+e319685367.102732
+r1
+xCompileC
+xbuild/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/ServerCall.o
+x/Users/kenrufe/Documents/tag/Classes/ServerCall.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/kenrufe/Documents/tag/Classes/ServerCall.m319685366#319685367#0(0"0(0#0#49"/Users/kenrufe/Documents/tag/Classes/ServerCall.m8644593632#1824"    cd /Users/kenrufe/Documents/tag    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-generated-files.hmap -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-own-target-headers.hmap -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-all-target-headers.hmap -iquote /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-project-headers.hmap -F/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator -I/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/include -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/DerivedSources/i386 -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/DerivedSources -include /var/folders/Dz/Dz+hY8nFFu4mZdb52puIU++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/40Forty_Prefix-dtvrnamjnomxuveizmnzgrakkcwg/40Forty_Prefix.pch -c /Users/kenrufe/Documents/tag/Classes/ServerCall.m -o /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/ServerCall.o0#
+
+CCompileC build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/main.o /Users/kenrufe/Documents/tag/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319685365.286376
+e319685365.590334
+r1
+xCompileC
+xbuild/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/main.o
+x/Users/kenrufe/Documents/tag/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@43"Compile /Users/kenrufe/Documents/tag/main.m319685365#319685365#0(0"0(0#0#35"/Users/kenrufe/Documents/tag/main.m8643551104#1804"    cd /Users/kenrufe/Documents/tag    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-generated-files.hmap -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-own-target-headers.hmap -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-all-target-headers.hmap -iquote /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-project-headers.hmap -F/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator -I/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/include -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/DerivedSources/i386 -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/DerivedSources -include /var/folders/Dz/Dz+hY8nFFu4mZdb52puIU++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/40Forty_Prefix-dtvrnamjnomxuveizmnzgrakkcwg/40Forty_Prefix.pch -c /Users/kenrufe/Documents/tag/main.m -o /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/main.o0#
+
+CCompileC build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/tagAppDelegate.o /Users/kenrufe/Documents/tag/Classes/tagAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319685365.590460
+e319685365.759740
+r1
+xCompileC
+xbuild/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/tagAppDelegate.o
+x/Users/kenrufe/Documents/tag/Classes/tagAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/kenrufe/Documents/tag/Classes/tagAppDelegate.m319685365#319685365#0(0"0(0#0#53"/Users/kenrufe/Documents/tag/Classes/tagAppDelegate.m8644585088#1832"    cd /Users/kenrufe/Documents/tag    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-generated-files.hmap -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-own-target-headers.hmap -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-all-target-headers.hmap -iquote /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-project-headers.hmap -F/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator -I/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/include -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/DerivedSources/i386 -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/DerivedSources -include /var/folders/Dz/Dz+hY8nFFu4mZdb52puIU++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/40Forty_Prefix-dtvrnamjnomxuveizmnzgrakkcwg/40Forty_Prefix.pch -c /Users/kenrufe/Documents/tag/Classes/tagAppDelegate.m -o /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/tagAppDelegate.o0#
+
+CCompileXIB /Users/kenrufe/Documents/tag/Classes/GameView.xib
+s319685356.597589
+e319685358.528751
+r1
+xCompileXIB
+x/Users/kenrufe/Documents/tag/Classes/GameView.xib
+lSLF07#2@31"CompileXIB Classes/GameView.xib319685356#319685358#0(0"0(0#0#49"/Users/kenrufe/Documents/tag/Classes/GameView.xib8608674624#544"    cd /Users/kenrufe/Documents/tag    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/GameView.nib /Users/kenrufe/Documents/tag/Classes/GameView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/kenrufe/Documents/tag/Classes/LoginScreenUserLoginView.xib
+s319685357.648544
+e319685358.642996
+r1
+xCompileXIB
+x/Users/kenrufe/Documents/tag/Classes/LoginScreenUserLoginView.xib
+lSLF07#2@47"CompileXIB Classes/LoginScreenUserLoginView.xib319685357#319685358#0(0"0(0#0#65"/Users/kenrufe/Documents/tag/Classes/LoginScreenUserLoginView.xib8642026112#576"    cd /Users/kenrufe/Documents/tag    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/LoginScreenUserLoginView.nib /Users/kenrufe/Documents/tag/Classes/LoginScreenUserLoginView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/kenrufe/Documents/tag/Classes/MainScreenView.xib
+s319685349.054623
+e319685356.597398
+r1
+xCompileXIB
+x/Users/kenrufe/Documents/tag/Classes/MainScreenView.xib
+lSLF07#2@37"CompileXIB Classes/MainScreenView.xib319685349#319685356#0(0"0(0#0#55"/Users/kenrufe/Documents/tag/Classes/MainScreenView.xib8641844544#556"    cd /Users/kenrufe/Documents/tag    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/MainScreenView.nib /Users/kenrufe/Documents/tag/Classes/MainScreenView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/kenrufe/Documents/tag/Classes/PreferencesView.xib
+s319685353.719757
+e319685357.648414
+r1
+xCompileXIB
+x/Users/kenrufe/Documents/tag/Classes/PreferencesView.xib
+lSLF07#2@38"CompileXIB Classes/PreferencesView.xib319685353#319685357#0(0"0(0#0#56"/Users/kenrufe/Documents/tag/Classes/PreferencesView.xib8630335936#558"    cd /Users/kenrufe/Documents/tag    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/PreferencesView.nib /Users/kenrufe/Documents/tag/Classes/PreferencesView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/kenrufe/Documents/tag/MainWindow.xib
+s319685349.052943
+e319685353.718684
+r1
+xCompileXIB
+x/Users/kenrufe/Documents/tag/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib319685349#319685353#0(0"0(0#0#43"/Users/kenrufe/Documents/tag/MainWindow.xib21673775076933728#540"    cd /Users/kenrufe/Documents/tag    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/MainWindow.nib /Users/kenrufe/Documents/tag/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/FBDialog.bundle Classes/FBDialog.bundle
+s319685360.380217
+e319685360.441704
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/40Forty.app/FBDialog.bundle
+xClasses/FBDialog.bundle
+lSLF07#2@28"Copy Classes/FBDialog.bundle319685360#319685360#0(0"0(0#0#52"/Users/kenrufe/Documents/tag/Classes/FBDialog.bundle8643570656#451"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kenrufe/Documents/tag/Classes/FBDialog.bundle /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app0#
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/about-dialog.png about-dialog.png
+s319685359.381115
+e319685359.648999
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/40Forty.app/about-dialog.png
+xabout-dialog.png
+lSLF07#2@21"Copy about-dialog.png319685359#319685359#0(0"0(0#0#45"/Users/kenrufe/Documents/tag/about-dialog.png8644337472#444"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kenrufe/Documents/tag/about-dialog.png /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app0#
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/background-1.png Classes/background-1.png
+s319685358.745075
+e319685358.819379
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/40Forty.app/background-1.png
+xClasses/background-1.png
+lSLF07#2@29"Copy Classes/background-1.png319685358#319685358#0(0"0(0#0#53"/Users/kenrufe/Documents/tag/Classes/background-1.png8644327776#452"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kenrufe/Documents/tag/Classes/background-1.png /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app0#
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/background-2.png Classes/background-2.png
+s319685358.819505
+e319685358.833904
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/40Forty.app/background-2.png
+xClasses/background-2.png
+lSLF07#2@29"Copy Classes/background-2.png319685358#319685358#0(0"0(0#0#53"/Users/kenrufe/Documents/tag/Classes/background-2.png8643383136#452"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kenrufe/Documents/tag/Classes/background-2.png /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app0#
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/background-3.png Classes/background-3.png
+s319685358.834154
+e319685358.850056
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/40Forty.app/background-3.png
+xClasses/background-3.png
+lSLF07#2@29"Copy Classes/background-3.png319685358#319685358#0(0"0(0#0#53"/Users/kenrufe/Documents/tag/Classes/background-3.png8643149280#452"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kenrufe/Documents/tag/Classes/background-3.png /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app0#
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/background-4.png Classes/background-4.png
+s319685358.850190
+e319685358.863383
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/40Forty.app/background-4.png
+xClasses/background-4.png
+lSLF07#2@29"Copy Classes/background-4.png319685358#319685358#0(0"0(0#0#53"/Users/kenrufe/Documents/tag/Classes/background-4.png8642789952#452"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kenrufe/Documents/tag/Classes/background-4.png /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app0#
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/background-5.png Classes/background-5.png
+s319685358.863503
+e319685358.918633
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/40Forty.app/background-5.png
+xClasses/background-5.png
+lSLF07#2@29"Copy Classes/background-5.png319685358#319685358#0(0"0(0#0#53"/Users/kenrufe/Documents/tag/Classes/background-5.png8642571008#452"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kenrufe/Documents/tag/Classes/background-5.png /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app0#
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/background-6.png Classes/background-6.png
+s319685358.918762
+e319685359.031607
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/40Forty.app/background-6.png
+xClasses/background-6.png
+lSLF07#2@29"Copy Classes/background-6.png319685358#319685359#0(0"0(0#0#53"/Users/kenrufe/Documents/tag/Classes/background-6.png8641968032#452"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kenrufe/Documents/tag/Classes/background-6.png /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app0#
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/button-down.png button-down.png
+r0
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/button-up.png button-up.png
+r0
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/cancel-button-down.png cancel-button-down.png
+s319685360.441816
+e319685360.477556
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/40Forty.app/cancel-button-down.png
+xcancel-button-down.png
+lSLF07#2@27"Copy cancel-button-down.png319685360#319685360#0(0"0(0#0#51"/Users/kenrufe/Documents/tag/cancel-button-down.png8643410208#450"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kenrufe/Documents/tag/cancel-button-down.png /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app0#
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/cancel-button-up.png cancel-button-up.png
+s319685360.477672
+e319685360.511954
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/40Forty.app/cancel-button-up.png
+xcancel-button-up.png
+lSLF07#2@25"Copy cancel-button-up.png319685360#319685360#0(0"0(0#0#49"/Users/kenrufe/Documents/tag/cancel-button-up.png8643309184#448"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kenrufe/Documents/tag/cancel-button-up.png /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app0#
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/create-user-button-down.png create-user-button-down.png
+s319685360.512081
+e319685360.533726
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/40Forty.app/create-user-button-down.png
+xcreate-user-button-down.png
+lSLF07#2@32"Copy create-user-button-down.png319685360#319685360#0(0"0(0#0#56"/Users/kenrufe/Documents/tag/create-user-button-down.png8643187296#455"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kenrufe/Documents/tag/create-user-button-down.png /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app0#
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/create-user-button-up.png create-user-button-up.png
+s319685360.533843
+e319685360.550650
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/40Forty.app/create-user-button-up.png
+xcreate-user-button-up.png
+lSLF07#2@30"Copy create-user-button-up.png319685360#319685360#0(0"0(0#0#54"/Users/kenrufe/Documents/tag/create-user-button-up.png8644336896#453"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kenrufe/Documents/tag/create-user-button-up.png /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app0#
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/create-user-cancel-button-down.png create-user-cancel-button-down.png
+s319685360.550779
+e319685360.567376
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/40Forty.app/create-user-cancel-button-down.png
+xcreate-user-cancel-button-down.png
+lSLF07#2@39"Copy create-user-cancel-button-down.png319685360#319685360#0(0"0(0#0#63"/Users/kenrufe/Documents/tag/create-user-cancel-button-down.png8644174656#462"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kenrufe/Documents/tag/create-user-cancel-button-down.png /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app0#
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/create-user-cancel-button-up.png create-user-cancel-button-up.png
+s319685360.567498
+e319685360.585968
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/40Forty.app/create-user-cancel-button-up.png
+xcreate-user-cancel-button-up.png
+lSLF07#2@37"Copy create-user-cancel-button-up.png319685360#319685360#0(0"0(0#0#61"/Users/kenrufe/Documents/tag/create-user-cancel-button-up.png8643933856#460"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kenrufe/Documents/tag/create-user-cancel-button-up.png /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app0#
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/done-button-down.png done-button-down.png
+s319685360.586099
+e319685360.602688
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/40Forty.app/done-button-down.png
+xdone-button-down.png
+lSLF07#2@25"Copy done-button-down.png319685360#319685360#0(0"0(0#0#49"/Users/kenrufe/Documents/tag/done-button-down.png8643804896#448"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kenrufe/Documents/tag/done-button-down.png /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app0#
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/done-button-up.png done-button-up.png
+s319685360.602806
+e319685360.619271
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/40Forty.app/done-button-up.png
+xdone-button-up.png
+lSLF07#2@23"Copy done-button-up.png319685360#319685360#0(0"0(0#0#47"/Users/kenrufe/Documents/tag/done-button-up.png8643634528#446"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kenrufe/Documents/tag/done-button-up.png /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app0#
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/gamequit-button-down.png gamequit-button-down.png
+s319685360.619415
+e319685360.636003
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/40Forty.app/gamequit-button-down.png
+xgamequit-button-down.png
+lSLF07#2@29"Copy gamequit-button-down.png319685360#319685360#0(0"0(0#0#53"/Users/kenrufe/Documents/tag/gamequit-button-down.png8643511104#452"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kenrufe/Documents/tag/gamequit-button-down.png /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app0#
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/gamequit-button-up.png gamequit-button-up.png
+s319685360.636124
+e319685360.663969
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/40Forty.app/gamequit-button-up.png
+xgamequit-button-up.png
+lSLF07#2@27"Copy gamequit-button-up.png319685360#319685360#0(0"0(0#0#51"/Users/kenrufe/Documents/tag/gamequit-button-up.png8643483712#450"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kenrufe/Documents/tag/gamequit-button-up.png /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app0#
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/help-button-down.png help-button-down.png
+s319685360.664093
+e319685360.701616
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/40Forty.app/help-button-down.png
+xhelp-button-down.png
+lSLF07#2@25"Copy help-button-down.png319685360#319685360#0(0"0(0#0#49"/Users/kenrufe/Documents/tag/help-button-down.png8643006528#448"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kenrufe/Documents/tag/help-button-down.png /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app0#
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/help-button-up.png help-button-up.png
+s319685360.701760
+e319685360.718744
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/40Forty.app/help-button-up.png
+xhelp-button-up.png
+lSLF07#2@23"Copy help-button-up.png319685360#319685360#0(0"0(0#0#47"/Users/kenrufe/Documents/tag/help-button-up.png8643053056#446"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kenrufe/Documents/tag/help-button-up.png /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app0#
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/info-dialog.png info-dialog.png
+s319685359.841973
+e319685359.880769
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/40Forty.app/info-dialog.png
+xinfo-dialog.png
+lSLF07#2@20"Copy info-dialog.png319685359#319685359#0(0"0(0#0#44"/Users/kenrufe/Documents/tag/info-dialog.png8643237760#443"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kenrufe/Documents/tag/info-dialog.png /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app0#
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/info-popup.png info-popup.png
+s319685359.807362
+e319685359.841823
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/40Forty.app/info-popup.png
+xinfo-popup.png
+lSLF07#2@19"Copy info-popup.png319685359#319685359#0(0"0(0#0#43"/Users/kenrufe/Documents/tag/info-popup.png8643360352#442"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kenrufe/Documents/tag/info-popup.png /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app0#
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/initialize-dialog.png initialize-dialog.png
+s319685359.709206
+e319685359.807245
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/40Forty.app/initialize-dialog.png
+xinitialize-dialog.png
+lSLF07#2@26"Copy initialize-dialog.png319685359#319685359#0(0"0(0#0#50"/Users/kenrufe/Documents/tag/initialize-dialog.png8643599392#449"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kenrufe/Documents/tag/initialize-dialog.png /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app0#
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/iphone3_icon.png iphone3_icon.png
+s319685358.643121
+e319685358.733521
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/40Forty.app/iphone3_icon.png
+xiphone3_icon.png
+lSLF07#2@21"Copy iphone3_icon.png319685358#319685358#0(0"0(0#0#45"/Users/kenrufe/Documents/tag/iphone3_icon.png8644737152#444"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kenrufe/Documents/tag/iphone3_icon.png /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app0#
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/iphone4_icon@2x.png iphone4_icon@2x.png
+s319685358.733654
+e319685358.744948
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/40Forty.app/iphone4_icon@2x.png
+xiphone4_icon@2x.png
+lSLF07#2@24"Copy iphone4_icon@2x.png319685358#319685358#0(0"0(0#0#48"/Users/kenrufe/Documents/tag/iphone4_icon@2x.png8644523200#447"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kenrufe/Documents/tag/iphone4_icon@2x.png /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app0#
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/join-game-button-down.png join-game-button-down.png
+s319685360.718886
+e319685360.753974
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/40Forty.app/join-game-button-down.png
+xjoin-game-button-down.png
+lSLF07#2@30"Copy join-game-button-down.png319685360#319685360#0(0"0(0#0#54"/Users/kenrufe/Documents/tag/join-game-button-down.png8642879424#453"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kenrufe/Documents/tag/join-game-button-down.png /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app0#
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/join-game-button-up.png join-game-button-up.png
+s319685360.754093
+e319685360.793503
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/40Forty.app/join-game-button-up.png
+xjoin-game-button-up.png
+lSLF07#2@28"Copy join-game-button-up.png319685360#319685360#0(0"0(0#0#52"/Users/kenrufe/Documents/tag/join-game-button-up.png8642803392#451"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kenrufe/Documents/tag/join-game-button-up.png /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app0#
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/login-button-down.png login-button-down.png
+s319685360.793624
+e319685360.838601
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/40Forty.app/login-button-down.png
+xlogin-button-down.png
+lSLF07#2@26"Copy login-button-down.png319685360#319685360#0(0"0(0#0#50"/Users/kenrufe/Documents/tag/login-button-down.png8635327584#449"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kenrufe/Documents/tag/login-button-down.png /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app0#
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/login-button-up.png login-button-up.png
+s319685360.838742
+e319685360.876838
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/40Forty.app/login-button-up.png
+xlogin-button-up.png
+lSLF07#2@24"Copy login-button-up.png319685360#319685360#0(0"0(0#0#48"/Users/kenrufe/Documents/tag/login-button-up.png8633864064#447"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kenrufe/Documents/tag/login-button-up.png /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app0#
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/login-create-button-down.png login-create-button-down.png
+s319685360.876960
+e319685360.916435
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/40Forty.app/login-create-button-down.png
+xlogin-create-button-down.png
+lSLF07#2@33"Copy login-create-button-down.png319685360#319685360#0(0"0(0#0#57"/Users/kenrufe/Documents/tag/login-create-button-down.png8632698592#456"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kenrufe/Documents/tag/login-create-button-down.png /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app0#
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/login-create-button-up.png login-create-button-up.png
+s319685360.916567
+e319685360.952264
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/40Forty.app/login-create-button-up.png
+xlogin-create-button-up.png
+lSLF07#2@31"Copy login-create-button-up.png319685360#319685360#0(0"0(0#0#55"/Users/kenrufe/Documents/tag/login-create-button-up.png8611054784#454"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kenrufe/Documents/tag/login-create-button-up.png /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app0#
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/login-view-dialog.png login-view-dialog.png
+s319685359.031722
+e319685359.056611
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/40Forty.app/login-view-dialog.png
+xlogin-view-dialog.png
+lSLF07#2@26"Copy login-view-dialog.png319685359#319685359#0(0"0(0#0#50"/Users/kenrufe/Documents/tag/login-view-dialog.png8635304032#449"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kenrufe/Documents/tag/login-view-dialog.png /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app0#
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/logout-button-down.png logout-button-down.png
+s319685360.952375
+e319685360.986241
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/40Forty.app/logout-button-down.png
+xlogout-button-down.png
+lSLF07#2@27"Copy logout-button-down.png319685360#319685360#0(0"0(0#0#51"/Users/kenrufe/Documents/tag/logout-button-down.png8644404384#450"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kenrufe/Documents/tag/logout-button-down.png /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app0#
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/logout-button-up.png logout-button-up.png
+s319685360.986358
+e319685361.005920
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/40Forty.app/logout-button-up.png
+xlogout-button-up.png
+lSLF07#2@25"Copy logout-button-up.png319685360#319685361#0(0"0(0#0#49"/Users/kenrufe/Documents/tag/logout-button-up.png8643940704#448"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kenrufe/Documents/tag/logout-button-up.png /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app0#
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/mainscreen-dialog.png mainscreen-dialog.png
+s319685359.098685
+e319685359.313901
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/40Forty.app/mainscreen-dialog.png
+xmainscreen-dialog.png
+lSLF07#2@26"Copy mainscreen-dialog.png319685359#319685359#0(0"0(0#0#50"/Users/kenrufe/Documents/tag/mainscreen-dialog.png8634307872#449"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kenrufe/Documents/tag/mainscreen-dialog.png /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app0#
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/map_options.png map_options.png
+s319685359.915666
+e319685359.973659
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/40Forty.app/map_options.png
+xmap_options.png
+lSLF07#2@20"Copy map_options.png319685359#319685359#0(0"0(0#0#44"/Users/kenrufe/Documents/tag/map_options.png8643073696#443"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kenrufe/Documents/tag/map_options.png /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app0#
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/ok1-button-down.png ok1-button-down.png
+s319685361.006050
+e319685361.026460
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/40Forty.app/ok1-button-down.png
+xok1-button-down.png
+lSLF07#2@24"Copy ok1-button-down.png319685361#319685361#0(0"0(0#0#48"/Users/kenrufe/Documents/tag/ok1-button-down.png8643792864#447"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kenrufe/Documents/tag/ok1-button-down.png /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app0#
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/ok1-button-up.png ok1-button-up.png
+s319685361.026582
+e319685361.056922
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/40Forty.app/ok1-button-up.png
+xok1-button-up.png
+lSLF07#2@22"Copy ok1-button-up.png319685361#319685361#0(0"0(0#0#46"/Users/kenrufe/Documents/tag/ok1-button-up.png8643596224#445"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kenrufe/Documents/tag/ok1-button-up.png /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app0#
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/opts-button-down.png opts-button-down.png
+s319685361.057047
+e319685361.076922
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/40Forty.app/opts-button-down.png
+xopts-button-down.png
+lSLF07#2@25"Copy opts-button-down.png319685361#319685361#0(0"0(0#0#49"/Users/kenrufe/Documents/tag/opts-button-down.png8643491648#448"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kenrufe/Documents/tag/opts-button-down.png /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app0#
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/opts-button-up.png opts-button-up.png
+s319685361.077035
+e319685361.108964
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/40Forty.app/opts-button-up.png
+xopts-button-up.png
+lSLF07#2@23"Copy opts-button-up.png319685361#319685361#0(0"0(0#0#47"/Users/kenrufe/Documents/tag/opts-button-up.png8643114336#446"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kenrufe/Documents/tag/opts-button-up.png /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app0#
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/pin-it-player.png pin-it-player.png
+s319685360.188785
+e319685360.251840
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/40Forty.app/pin-it-player.png
+xpin-it-player.png
+lSLF07#2@22"Copy pin-it-player.png319685360#319685360#0(0"0(0#0#46"/Users/kenrufe/Documents/tag/pin-it-player.png8644075616#445"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kenrufe/Documents/tag/pin-it-player.png /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app0#
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/pin-not-it-player.png pin-not-it-player.png
+s319685360.251957
+e319685360.380105
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/40Forty.app/pin-not-it-player.png
+xpin-not-it-player.png
+lSLF07#2@26"Copy pin-not-it-player.png319685360#319685360#0(0"0(0#0#50"/Users/kenrufe/Documents/tag/pin-not-it-player.png8643797664#449"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kenrufe/Documents/tag/pin-not-it-player.png /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app0#
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/pref-background.png pref-background.png
+s319685359.649124
+e319685359.709087
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/40Forty.app/pref-background.png
+xpref-background.png
+lSLF07#2@24"Copy pref-background.png319685359#319685359#0(0"0(0#0#48"/Users/kenrufe/Documents/tag/pref-background.png8643771552#447"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kenrufe/Documents/tag/pref-background.png /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app0#
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/preferences-button-down.png preferences-button-down.png
+s319685361.109083
+e319685361.131658
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/40Forty.app/preferences-button-down.png
+xpreferences-button-down.png
+lSLF07#2@32"Copy preferences-button-down.png319685361#319685361#0(0"0(0#0#56"/Users/kenrufe/Documents/tag/preferences-button-down.png8642839584#455"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kenrufe/Documents/tag/preferences-button-down.png /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app0#
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/preferences-button-up.png preferences-button-up.png
+s319685361.131784
+e319685361.160829
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/40Forty.app/preferences-button-up.png
+xpreferences-button-up.png
+lSLF07#2@30"Copy preferences-button-up.png319685361#319685361#0(0"0(0#0#54"/Users/kenrufe/Documents/tag/preferences-button-up.png8642688384#453"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kenrufe/Documents/tag/preferences-button-up.png /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app0#
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/quit_confirm.png quit_confirm.png
+s319685359.973770
+e319685360.056349
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/40Forty.app/quit_confirm.png
+xquit_confirm.png
+lSLF07#2@21"Copy quit_confirm.png319685359#319685360#0(0"0(0#0#45"/Users/kenrufe/Documents/tag/quit_confirm.png8642841824#444"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kenrufe/Documents/tag/quit_confirm.png /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app0#
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/quitno-button-down.png quitno-button-down.png
+s319685361.160951
+e319685361.197545
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/40Forty.app/quitno-button-down.png
+xquitno-button-down.png
+lSLF07#2@27"Copy quitno-button-down.png319685361#319685361#0(0"0(0#0#51"/Users/kenrufe/Documents/tag/quitno-button-down.png8642193440#450"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kenrufe/Documents/tag/quitno-button-down.png /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app0#
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/quitno-button-up.png quitno-button-up.png
+s319685361.197664
+e319685361.216336
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/40Forty.app/quitno-button-up.png
+xquitno-button-up.png
+lSLF07#2@25"Copy quitno-button-up.png319685361#319685361#0(0"0(0#0#49"/Users/kenrufe/Documents/tag/quitno-button-up.png8635172064#448"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kenrufe/Documents/tag/quitno-button-up.png /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app0#
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/quityes-button-down.png quityes-button-down.png
+s319685361.216456
+e319685361.232973
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/40Forty.app/quityes-button-down.png
+xquityes-button-down.png
+lSLF07#2@28"Copy quityes-button-down.png319685361#319685361#0(0"0(0#0#52"/Users/kenrufe/Documents/tag/quityes-button-down.png8633964416#451"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kenrufe/Documents/tag/quityes-button-down.png /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app0#
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/quityes-button-up.png quityes-button-up.png
+s319685361.233091
+e319685361.254206
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/40Forty.app/quityes-button-up.png
+xquityes-button-up.png
+lSLF07#2@26"Copy quityes-button-up.png319685361#319685361#0(0"0(0#0#50"/Users/kenrufe/Documents/tag/quityes-button-up.png8633786720#449"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kenrufe/Documents/tag/quityes-button-up.png /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app0#
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/round_over_background.png round_over_background.png
+s319685360.056643
+e319685360.117789
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/40Forty.app/round_over_background.png
+xround_over_background.png
+lSLF07#2@30"Copy round_over_background.png319685360#319685360#0(0"0(0#0#54"/Users/kenrufe/Documents/tag/round_over_background.png8642699648#453"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kenrufe/Documents/tag/round_over_background.png /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app0#
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/stats-button-down.png stats-button-down.png
+s319685361.254321
+e319685361.287693
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/40Forty.app/stats-button-down.png
+xstats-button-down.png
+lSLF07#2@26"Copy stats-button-down.png319685361#319685361#0(0"0(0#0#50"/Users/kenrufe/Documents/tag/stats-button-down.png8618722560#449"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kenrufe/Documents/tag/stats-button-down.png /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app0#
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/stats-button-up.png stats-button-up.png
+s319685361.287815
+e319685361.304315
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/40Forty.app/stats-button-up.png
+xstats-button-up.png
+lSLF07#2@24"Copy stats-button-up.png319685361#319685361#0(0"0(0#0#48"/Users/kenrufe/Documents/tag/stats-button-up.png8644337184#447"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kenrufe/Documents/tag/stats-button-up.png /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app0#
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/stats-dialog.png stats-dialog.png
+s319685359.314019
+e319685359.381002
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/40Forty.app/stats-dialog.png
+xstats-dialog.png
+lSLF07#2@21"Copy stats-dialog.png319685359#319685359#0(0"0(0#0#45"/Users/kenrufe/Documents/tag/stats-dialog.png8644754080#444"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kenrufe/Documents/tag/stats-dialog.png /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app0#
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/status-background.png status-background.png
+s319685359.880918
+e319685359.915542
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/40Forty.app/status-background.png
+xstatus-background.png
+lSLF07#2@26"Copy status-background.png319685359#319685359#0(0"0(0#0#50"/Users/kenrufe/Documents/tag/status-background.png8643154208#449"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kenrufe/Documents/tag/status-background.png /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app0#
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/user-create-dialog.png user-create-dialog.png
+s319685359.056732
+e319685359.098567
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/40Forty.app/user-create-dialog.png
+xuser-create-dialog.png
+lSLF07#2@27"Copy user-create-dialog.png319685359#319685359#0(0"0(0#0#51"/Users/kenrufe/Documents/tag/user-create-dialog.png8634637760#450"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kenrufe/Documents/tag/user-create-dialog.png /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app0#
+
+CCpResource build/Debug-iphonesimulator/40Forty.app/userstats-background.png userstats-background.png
+s319685360.117913
+e319685360.188670
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/40Forty.app/userstats-background.png
+xuserstats-background.png
+lSLF07#2@29"Copy userstats-background.png319685360#319685360#0(0"0(0#0#53"/Users/kenrufe/Documents/tag/userstats-background.png8644449824#452"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kenrufe/Documents/tag/userstats-background.png /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app0#
+
+CGenerateDSYMFile /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app.dSYM /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/40Forty
+s319686675.194691
+e319686675.434592
+r1
+xGenerateDSYMFile
+x/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app.dSYM
+x/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/40Forty
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/40Forty.app.dSYM build/Debug-iphonesimulator/40Forty.app/40Forty319686675#319686675#0(0"0(0#0#76"/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/40Forty8642554912#353"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/40Forty -o /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app.dSYM0#
+
+CLd /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/40Forty normal i386
+s319686674.907938
+e319686675.194535
+r1
+xLd
+x/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/40Forty
+xnormal
+xi386
+lSLF07#2@81"Link /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/40Forty319686674#319686675#0(0"0(0#0#0"8641535040#1214"    cd /Users/kenrufe/Documents/tag    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator -L/Users/kenrufe/Documents/tag/Classes/mobclix.lib -F/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator -filelist /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/Objects-normal/i386/40Forty.LinkFileList -mmacosx-version-min=10.6 -all_load -ObjC -licucore -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -framework MapKit -framework CoreLocation -lMobclix -framework AddressBook -framework AddressBookUI -framework AudioToolbox -framework AVFoundation -framework CoreMotion -framework EventKit -framework MediaPlayer -framework MessageUI -framework SystemConfiguration -o /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/40Forty0#
+
+CProcessInfoPlistFile /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/Info.plist 40Forty-Info.plist
+s319685349.043313
+e319685349.052813
+r1
+xProcessInfoPlistFile
+x/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/Info.plist
+x40Forty-Info.plist
+lSLF07#2@26"Process 40Forty-Info.plist319685349#319685349#0(0"0(0#0#47"/Users/kenrufe/Documents/tag/40Forty-Info.plist8642595296#449"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility 40Forty-Info.plist -genpkginfo /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app/Info.plist0#
+
+CProcessPCH /var/folders/Dz/Dz+hY8nFFu4mZdb52puIU++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/40Forty_Prefix-dtvrnamjnomxuveizmnzgrakkcwg/40Forty_Prefix.pch.gch 40Forty_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s319685361.304488
+e319685365.285995
+r1
+xProcessPCH
+x/var/folders/Dz/Dz+hY8nFFu4mZdb52puIU++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/40Forty_Prefix-dtvrnamjnomxuveizmnzgrakkcwg/40Forty_Prefix.pch.gch
+x40Forty_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile 40Forty_Prefix.pch319685361#319685365#0(0"0(0#0#47"/Users/kenrufe/Documents/tag/40Forty_Prefix.pch8644159232#1706"    cd /Users/kenrufe/Documents/tag    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-generated-files.hmap -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-own-target-headers.hmap -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-all-target-headers.hmap -iquote /Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/40Forty-project-headers.hmap -F/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator -I/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/include -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/DerivedSources/i386 -I/Users/kenrufe/Documents/tag/build/40Forty.build/Debug-iphonesimulator/40Forty.build/DerivedSources -c /Users/kenrufe/Documents/tag/40Forty_Prefix.pch -o /var/folders/Dz/Dz+hY8nFFu4mZdb52puIU++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/40Forty_Prefix-dtvrnamjnomxuveizmnzgrakkcwg/40Forty_Prefix.pch.gch0#
+
+CTouch /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app
+s319686675.434873
+e319686675.438600
+r1
+xTouch
+x/Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app
+lSLF07#2@74"Touch /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app319686675#319686675#0(0"0(0#0#0"8643642432#258"    cd /Users/kenrufe/Documents/tag    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/kenrufe/Documents/tag/build/Debug-iphonesimulator/40Forty.app0#
+

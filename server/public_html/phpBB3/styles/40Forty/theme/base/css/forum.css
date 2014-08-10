@@ -1,0 +1,72 @@
+
+#header #navigation {
+	padding: 0;
+}
+
+#header #navigation a {
+	background: transparent;
+	color: #fff;
+	padding: 0;
+}
+
+#searchInput,
+.mainlogin {
+	cursor: text;
+}
+
+#welcomeMessage {
+	text-shadow: 2px 2px 1px #ce5c00;
+}
+
+#content .headerbar2 {
+	margin: 15px 15px 15px;
+}
+
+#content .forabg {
+	margin-bottom: 15px;
+}
+
+#content #forum-submenu {
+	text-align: center;
+	padding: 10px;
+}
+
+#height-enforcer {
+	height: auto;
+}
+
+#column .inner2 #login {
+	background: inherit;
+	height: auto;
+	width: auto;
+}
+
+.forabg {
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+}
+
+span.corners-top {
+	-moz-border-radius-topleft: 5px;
+	-webkit-border-top-left-radius: 5px;
+	border-top-left-radius: 5px;
+}
+
+span.corners-top span {
+	-moz-border-radius-topright: 5px;
+	-webkit-border-top-right-radius: 5px;
+	border-top-right-radius: 5px;
+}
+
+span.corners-bottom {
+	-moz-border-radius-bottomleft: 5px;
+	-webkit-border-bottom-left-radius: 5px;
+	border-top-bottom-radius: 5px;
+}
+
+span.corners-bottom span {
+	-moz-border-radius-bottomright: 5px;
+	-webkit-border-bottom-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
